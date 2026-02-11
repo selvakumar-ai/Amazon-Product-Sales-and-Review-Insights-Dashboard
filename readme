@@ -1,1 +1,156 @@
-Amazon-Product-Sales-and-Review-Insights-Dashboard
+📊 Amazon Product Sales and Review Insights Dashboard
+
+An end-to-end Power BI Business Intelligence project that analyzes Amazon product sales performance, discount strategies, and customer reviews to generate actionable business insights for data-driven decision-making.
+
+🎯 Project Objective
+
+The goal of this project is to transform raw Amazon product data into meaningful insights that help businesses:
+
+Track product sales performance
+
+Analyze discount effectiveness
+
+Monitor customer ratings and reviews
+
+Identify top-performing categories
+
+Improve pricing and marketing strategies
+
+This dashboard enables strategic decisions to improve revenue, product visibility, and customer satisfaction.
+
+
+🛠️ Tools & Technologies Used
+
+Power BI – Data visualization & dashboard creation
+
+Power Query – Data cleaning & transformation
+
+DAX (Data Analysis Expressions) – KPI calculations & measures
+
+Data Modeling – Relationships between sales, categories, and ratings
+
+
+📂 Dashboard Structure (5Pages)
+1️⃣ Sales Overview Dashboard
+
+Focuses on overall business sales performance.
+
+Key KPIs:
+
+Total sales
+
+Total Products
+
+Total price
+
+Average Discount %
+
+Average Rating
+
+Insights:
+
+Revenue varies across categories.
+
+Few categories generate majority of sales.
+
+Discount strategy directly impacts price volume.
+
+Electronics & Fashion categories dominate sales.
+
+2️⃣ Category Performance Analysis
+
+Analyzes product categories and pricing strategy.
+
+Key Metrics:
+
+Total Sales by Category
+
+Top 10 Categories by price
+
+Average Discount % by Category
+
+Category-wise Rating Comparison
+
+Insights:
+
+High-discount categories attract more customers.
+
+Some categories maintain high sales with low discounts.
+
+Top 10 categories contribute majority of total revenue.
+
+3️⃣ Review & Rating Analysis
+
+Evaluates customer feedback and product performance.
+
+Key Metrics:
+
+Average Rating
+
+Rating Distribution (1–5 stars)
+
+Total Review Count
+
+Top Rated Products
+
+Insights:
+
+Most products have 3–4 star ratings.
+
+Higher-rated products show better sales performance.
+
+Negative ratings impact product visibility.
+
+4️⃣ Pricing & Discount Insights
+
+Examines pricing patterns and discount effectiveness.
+
+Key Highlights:
+
+Actual Price vs Discounted Price Comparison
+
+Discount % Impact on Sales
+
+Products with Highest Discount
+
+Revenue by Discount Category
+
+Insights:
+
+Moderate discounts increase sales significantly.
+
+Extremely high discounts do not always guarantee high revenue.
+
+Price-sensitive customers respond to 10–30% discount range.
+
+📈 Business Problems Solved
+
+This dashboard helps answer:
+
+✔ Which product categories generate the highest revenue?
+✔ How effective are discount strategies?
+✔ Do higher ratings improve sales performance?
+✔ Which products need pricing optimization?
+✔ How can customer satisfaction be improved?
+
+💡 Business Impact
+
+Using this dashboard, management can:
+
+Optimize pricing strategies
+
+Improve product positioning
+
+Identify high-performing categories
+
+Reduce low-rated product issues
+
+Increase revenue through data-driven discount planning
+
+🚀 Conclusion
+
+The Amazon Product Sales and Review Insights Dashboard demonstrates how business intelligence can improve decision-making by providing visibility into:
+
+Revenue | Categories | Pricing | Reviews | Customer Behavior
+
+This project showcases strong skills in Power BI, DAX, data modeling, and business analytics.
